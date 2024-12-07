@@ -7,7 +7,6 @@ A web application to visualize pathfinding algorithms. This project demonstrates
 **[Live Demo on Netlify](https://pathfindingvisualization.netlify.app)**
 
 ## Features
-
 - Visualizes popular pathfinding algorithms:
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
@@ -17,6 +16,8 @@ A web application to visualize pathfinding algorithms. This project demonstrates
 - Ability to place start, end, and obstacle nodes
 - Interactive interface with dynamic updates
 - Real-time visualization of algorithm progress
+  
+![pathfinding-demo](https://github.com/user-attachments/assets/1f00d8be-fd4c-4855-9b2a-95794dadb8fc)
 
 ## Technologies Used
 

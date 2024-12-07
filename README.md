@@ -4,7 +4,7 @@ A web application to visualize pathfinding algorithms. This project demonstrates
 
 ![Pathfinding Visualization Demo](pathfinding-demo.gif)
 
-**[Live Demo on Netlify](https://your-netlify-link.netlify.app)**
+**[Live Demo on Netlify](https://pathfindingvisualization.netlify.app)**
 
 ## Features
 
